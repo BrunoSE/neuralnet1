@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# =============================================================================
+# Created By  : Bruno Stefoni
+# Created Date: Mon Dec 3 14:54:00 PDT 2018
+# =============================================================================
+
 # Import the needed libraries
 from sklearn.model_selection import train_test_split
 import numpy as np
